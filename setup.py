@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="randgraph",
-    version="0.1.1",
+    version="0.1.2",
     description="A package for generating and drawing randomly generated graphs",
     author="Dominic Nidy",
     author_email="domnidy01@gmail.com",
