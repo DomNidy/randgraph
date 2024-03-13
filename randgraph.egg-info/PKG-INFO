@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: randgraph
+Version: 0.1.1
+Summary: A package for generating and drawing randomly generated graphs
+Home-page: https://github.com/DomNidy/randgraph
+Author: Dominic Nidy
+Author-email: domnidy01@gmail.com
