@@ -2,6 +2,13 @@
 
 randgraph is a lightweight python module for generating random graphs, and rendering them with the networkx library.
 
+ Install with: **`pip install randgraph`**
+
+To build from source: 
+```bash
+python .\setup.py sdist bdist_wheel
+```
+
 ## How to use it
 
 ```python
